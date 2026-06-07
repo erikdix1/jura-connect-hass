@@ -11,5 +11,5 @@
     "requirements": [
         "jura_connect @ https://gitea.apps.trivion.nl/erik/jura-connect/releases/download/v0.10.0/jura_connect-0.10.0-py3-none-any.whl"
     ],
-    "version": "0.8.0"
+    "version": "0.9.0"
 }
