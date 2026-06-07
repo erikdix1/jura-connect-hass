@@ -8,6 +8,8 @@
     "integration_type": "device",
     "iot_class": "local_polling",
     "issue_tracker": "https://github.com/makefu/jura-connect-hass/issues",
-    "requirements": ["jura_connect>=0.9.4"],
-    "version": "0.7.4"
+    "requirements": [
+        "jura_connect @ https://gitea.apps.trivion.nl/erik/jura-connect/releases/download/v0.10.0/jura_connect-0.10.0-py3-none-any.whl"
+    ],
+    "version": "0.8.0"
 }
